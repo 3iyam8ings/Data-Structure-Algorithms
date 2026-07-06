@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0006-zigzag-conversion) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 ## Dynamic Programming
 |  |
