@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -119,9 +121,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
