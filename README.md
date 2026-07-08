@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0224-basic-calculator) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0224-basic-calculator) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0110-balanced-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
