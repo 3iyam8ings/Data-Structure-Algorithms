@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3620-network-recovery-pathways) |
+| [3643-flip-square-submatrix-vertically](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3643-flip-square-submatrix-vertically](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
 ## Shortest Path
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [3643-flip-square-submatrix-vertically](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
