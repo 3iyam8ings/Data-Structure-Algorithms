@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -93,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
