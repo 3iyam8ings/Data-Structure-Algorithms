@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [0704-binary-search](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1288-remove-covered-intervals) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
