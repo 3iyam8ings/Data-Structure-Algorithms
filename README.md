@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0224-basic-calculator) |
+| [0316-remove-duplicate-letters](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0224-basic-calculator) |
+| [0316-remove-duplicate-letters](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
