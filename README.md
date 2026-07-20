@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0190-reverse-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
