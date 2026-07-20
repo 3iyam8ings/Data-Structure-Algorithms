@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [0704-binary-search](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0704-binary-search) |
+| [1260-shift-2d-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1331-rank-transform-of-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
