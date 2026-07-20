@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
