@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [0704-binary-search](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1260-shift-2d-grid) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1009-complement-of-base-10-integer) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
