@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
+| [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1288-remove-covered-intervals) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
+| [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
