@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0224-basic-calculator) |
+| [0628-maximum-product-of-three-numbers](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1260-shift-2d-grid) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1331-rank-transform-of-an-array) |
