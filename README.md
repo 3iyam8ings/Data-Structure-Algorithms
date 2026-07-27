@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
