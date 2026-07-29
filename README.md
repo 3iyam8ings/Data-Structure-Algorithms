@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0229-majority-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
