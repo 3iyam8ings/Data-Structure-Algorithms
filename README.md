@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0332-reconstruct-itinerary](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0332-reconstruct-itinerary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0190-reverse-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/3iyam8ings/Data-Structure-Algorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
